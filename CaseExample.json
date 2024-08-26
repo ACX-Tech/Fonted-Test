@@ -1,0 +1,100 @@
+{
+    "CaseId": "982341756",
+    "CaseDetails": {
+        "TransactionId": "6789012345678",
+        "TagName": "AML Investigation",
+        "TransactionStatus": "Under Review",
+        "Amount": "50 BNB",
+        "CreationDate": "Aug 30, 2024",
+        "RelatedCases": [
+            {
+                "Id": "556677889",
+                "TransactionId": "2345678901234",
+                "TagName": "AML Investigation",
+                "TransactionStatus": "Under Review",
+                "CaseStatus": "Open",
+                "Amount": "30 USDT"
+            },
+            {
+                "Id": "556677890",
+                "TransactionId": "2345678901235",
+                "TagName": "Sanctions Check",
+                "TransactionStatus": "Pending",
+                "CaseStatus": "Open",
+                "Amount": "12 BTC"
+            }
+        ],
+        "Transactions": {
+            "OFACSanctionedDestination": true,
+            "SourceScore": "5",
+            "DestinationScore": "9.0",
+            "DestinationRisk": {
+                "Trigger": "Bitfinex",
+                "Score": "9.0",
+                "Hops": "6",
+                "ContributionValue": "45%",
+                "Value": "USD 60,000"
+            }
+        },
+        "Comments": [
+            {
+                "CommentBy": "auto",
+                "Date": "2024-08-30 15:00",
+                "Comment": "User level updated to: LEVEL_3, user document state: REVIEW, attempted level: LEVEL_3, kyc source: KYC_INVESTIGATION"
+            },
+            {
+                "CommentBy": "oliver.brown@mail.com",
+                "Date": "2024-08-30 15:30",
+                "Comment": "Rescreen GH-78901 (SoF to Exchange 6 hops, 40%), KYC L3 Under Review. Transaction Status: Under Review."
+            },
+            {
+                "CommentBy": "auto",
+                "Date": "2024-08-30 15:35",
+                "Comment": "Oliver Brown on Rescreen SoF 50 BNB decided to set 2345678901234 transaction status under review."
+            }
+        ],
+        "JIRATickets": [
+            {
+                "Id": "ML-T-6789",
+                "Title": "AML Investigation Issues",
+                "Status": "In Progress",
+                "Date": "2024-08-30 16:00"
+            }
+        ],
+        "UserProfile": {
+            "KYCLevel": "LEVEL 3",
+            "KYCStatus": "Under Review",
+            "LoginLocation": "DE",
+            "PhoneCountry": "DE",
+            "Language": "DE",
+            "LegalAge": "28",
+            "SelfDeclaredAge": "28",
+            "LegalName": "Lukas Müller",
+            "SelfDeclaredName": "Lukas Müller"
+        },
+        "TelegramProfile": {
+            "Username": "LukasM",
+            "Mention": "@LukasM_Official",
+            "Bio": "Crypto Trader",
+            "Photos": "5 photos",
+            "Posts": "1 Post"
+        },
+        "KYT_SB_Decision_Id": 7,
+        "AISuggestionAccuracy": "65%",
+        "Comment": "KYT HR DT/WD (DoF Bitfinex 6 hops, 45%), KYC L3 Under Review; Transaction Status: Under Review with Restricted Access",
+        "Sumsub": {
+            "Application_Status_Id": 7,
+            "Picture": "https://img.freepik.com/free-photo/portrait-handsome-young-man_53876-40305.jpg",
+            "Personal_Info": {
+                "First_Name": "Lukas",
+                "Last_Name": "Müller",
+                "Middle_Name": "Friedrich",
+                "Birthday": "03/14/1996",
+                "Country": "Germany",
+                "Gender": "Male",
+                "Email": "lukas.muller@gmail.com",
+                "Phone": "+491234567890"
+            }
+        }
+    }
+}
