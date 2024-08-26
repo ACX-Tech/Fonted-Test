@@ -1,0 +1,335 @@
+[
+  {
+    "ID": "1268698306245",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Joe Harlow",
+    "STATUS": "Resolved",
+    "AI DECISION": "Passed + Withdraw Outer",
+    "FINAL DECISION": "Passed + Withdraw Outer",
+    "AI SUGGESTION_MATCH": "80%"
+  },
+  {
+    "ID": "1268698306211",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Jane McCourtney",
+    "STATUS": "Resolved",
+    "AI DECISION": "Passed + Full Access",
+    "FINAL DECISION": "Passed + Full Access",
+    "AI SUGGESTION_MATCH": "15%"
+  },
+  {
+    "ID": "1268698306980",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Carl Willow",
+    "STATUS": "Resolved",
+    "AI DECISION": "Passed + Withdraw Outer",
+    "FINAL DECISION": "Passed + Full Access",
+    "AI SUGGESTION_MATCH": "23%"
+  },
+  {
+    "ID": "1268698306002",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Mickey Nielson",
+    "STATUS": "Resolved",
+    "AI DECISION": "Reject + Full Block",
+    "FINAL DECISION": "Passed + Full Block",
+    "AI SUGGESTION_MATCH": "87%"
+  },
+  {
+    "ID": "1268695006728",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Cindy Valve",
+    "STATUS": "Resolved",
+    "AI DECISION": "KYC Request",
+    "FINAL DECISION": "KYC Request",
+    "AI SUGGESTION_MATCH": "90%"
+  },
+  {
+    "ID": "1268698306246",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "John Doe",
+    "STATUS": "Resolved",
+    "AI DECISION": "Passed + Withdraw Outer",
+    "FINAL DECISION": "Passed + Withdraw Outer",
+    "AI SUGGESTION_MATCH": "75%"
+  },
+  {
+    "ID": "1268698306212",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Jane Smith",
+    "STATUS": "Resolved",
+    "AI DECISION": "Passed + Full Access",
+    "FINAL DECISION": "Passed + Full Access",
+    "AI SUGGESTION_MATCH": "20%"
+  },
+  {
+    "ID": "1268698306981",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Carl Johnson",
+    "STATUS": "Resolved",
+    "AI DECISION": "Passed + Withdraw Outer",
+    "FINAL DECISION": "Passed + Full Access",
+    "AI SUGGESTION_MATCH": "30%"
+  },
+  {
+    "ID": "1268698306003",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Mickey Mouse",
+    "STATUS": "Resolved",
+    "AI DECISION": "Reject + Full Block",
+    "FINAL DECISION": "Passed + Full Block",
+    "AI SUGGESTION_MATCH": "85%"
+  },
+  {
+    "ID": "1268695006729",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Cindy Lou",
+    "STATUS": "Resolved",
+    "AI DECISION": "KYC Request",
+    "FINAL DECISION": "KYC Request",
+    "AI SUGGESTION_MATCH": "92%"
+  },
+  {
+    "ID": "1268698306247",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Joe Bloggs",
+    "STATUS": "Resolved",
+    "AI DECISION": "Passed + Withdraw Outer",
+    "FINAL DECISION": "Passed + Withdraw Outer",
+    "AI SUGGESTION_MATCH": "78%"
+  },
+  {
+    "ID": "1268698306213",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Jane Roe",
+    "STATUS": "Resolved",
+    "AI DECISION": "Passed + Full Access",
+    "FINAL DECISION": "Passed + Full Access",
+    "AI SUGGESTION_MATCH": "18%"
+  },
+  {
+    "ID": "1268698306982",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Carl Sagan",
+    "STATUS": "Resolved",
+    "AI DECISION": "Passed + Withdraw Outer",
+    "FINAL DECISION": "Passed + Full Access",
+    "AI SUGGESTION_MATCH": "28%"
+  },
+  {
+    "ID": "1268698306004",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Mickey Mantle",
+    "STATUS": "Resolved",
+    "AI DECISION": "Reject + Full Block",
+    "FINAL DECISION": "Passed + Full Block",
+    "AI SUGGESTION_MATCH": "83%"
+  },
+  {
+    "ID": "1268695006730",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Cindy Brady",
+    "STATUS": "Resolved",
+    "AI DECISION": "KYC Request",
+    "FINAL DECISION": "KYC Request",
+    "AI SUGGESTION_MATCH": "91%"
+  },
+  {
+    "ID": "1268698306248",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Joe Schmoe",
+    "STATUS": "Resolved",
+    "AI DECISION": "Passed + Withdraw Outer",
+    "FINAL DECISION": "Passed + Withdraw Outer",
+    "AI SUGGESTION_MATCH": "77%"
+  },
+  {
+    "ID": "1268698306214",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Jane Doe",
+    "STATUS": "Resolved",
+    "AI DECISION": "Passed + Full Access",
+    "FINAL DECISION": "Passed + Full Access",
+    "AI SUGGESTION_MATCH": "22%"
+  },
+  {
+    "ID": "1268698306983",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Carl Lewis",
+    "STATUS": "Resolved",
+    "AI DECISION": "Passed + Withdraw Outer",
+    "FINAL DECISION": "Passed + Full Access",
+    "AI SUGGESTION_MATCH": "27%"
+  },
+  {
+    "ID": "1268698306005",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Mickey Rooney",
+    "STATUS": "Resolved",
+    "AI DECISION": "Reject + Full Block",
+    "FINAL DECISION": "Passed + Full Block",
+    "AI SUGGESTION_MATCH": "82%"
+  },
+  {
+    "ID": "1268695006731",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Cindy Crawford",
+    "STATUS": "Resolved",
+    "AI DECISION": "KYC Request",
+    "FINAL DECISION": "KYC Request",
+    "AI SUGGESTION_MATCH": "93%"
+  },
+  {
+    "ID": "1268698306249",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Joe Public",
+    "STATUS": "Resolved",
+    "AI DECISION": "Passed + Withdraw Outer",
+    "FINAL DECISION": "Passed + Withdraw Outer",
+    "AI SUGGESTION_MATCH": "76%"
+  },
+  {
+    "ID": "1268698306215",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Jane Citizen",
+    "STATUS": "Resolved",
+    "AI DECISION": "Passed + Full Access",
+    "FINAL DECISION": "Passed + Full Access",
+    "AI SUGGESTION_MATCH": "21%"
+  },
+  {
+    "ID": "1268698306984",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Carl Jung",
+    "STATUS": "Resolved",
+    "AI DECISION": "Passed + Withdraw Outer",
+    "FINAL DECISION": "Passed + Full Access",
+    "AI SUGGESTION_MATCH": "26%"
+  },
+  {
+    "ID": "1268698306006",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Mickey Rourke",
+    "STATUS": "Resolved",
+    "AI DECISION": "Reject + Full Block",
+    "FINAL DECISION": "Passed + Full Block",
+    "AI SUGGESTION_MATCH": "81%"
+  },
+  {
+    "ID": "1268698306245",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Joe Harlow",
+    "STATUS": "Resolved",
+    "AI DECISION": "Passed + Withdraw Outer",
+    "FINAL DECISION": "Passed + Withdraw Outer",
+    "AI SUGGESTION_MATCH": "80%"
+  },
+  {
+    "ID": "1268698306211",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Jane McCourtney",
+    "STATUS": "Resolved",
+    "AI DECISION": "Passed + Full Access",
+    "FINAL DECISION": "Passed + Full Access",
+    "AI SUGGESTION_MATCH": "15%"
+  },
+  {
+    "ID": "1268698306980",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Carl Willow",
+    "STATUS": "Resolved",
+    "AI DECISION": "Passed + Withdraw Outer",
+    "FINAL DECISION": "Passed + Full Access",
+    "AI SUGGESTION_MATCH": "23%"
+  },
+  {
+    "ID": "1268698306002",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Mickey Nielson",
+    "STATUS": "Resolved",
+    "AI DECISION": "Reject + Full Block",
+    "FINAL DECISION": "Passed + Full Block",
+    "AI SUGGESTION_MATCH": "87%"
+  },
+  {
+    "ID": "1268695006728",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Cindy Valve",
+    "STATUS": "Resolved",
+    "AI DECISION": "KYC Request",
+    "FINAL DECISION": "KYC Request",
+    "AI SUGGESTION_MATCH": "90%"
+  },
+  {
+    "ID": "1268698306246",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "John Doe",
+    "STATUS": "Resolved",
+    "AI DECISION": "Passed + Withdraw Outer",
+    "FINAL DECISION": "Passed + Withdraw Outer",
+    "AI SUGGESTION_MATCH": "75%"
+  },
+  {
+    "ID": "1268698306212",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Jane Smith",
+    "STATUS": "Resolved",
+    "AI DECISION": "Passed + Full Access",
+    "FINAL DECISION": "Passed + Full Access",
+    "AI SUGGESTION_MATCH": "20%"
+  },
+  {
+    "ID": "1268698306981",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Carl Johnson",
+    "STATUS": "Resolved",
+    "AI DECISION": "Passed + Withdraw Outer",
+    "FINAL DECISION": "Passed + Full Access",
+    "AI SUGGESTION_MATCH": "30%"
+  },
+  {
+    "ID": "1268698306003",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Mickey Mouse",
+    "STATUS": "Resolved",
+    "AI DECISION": "Reject + Full Block",
+    "FINAL DECISION": "Passed + Full Block",
+    "AI SUGGESTION_MATCH": "85%"
+  },
+  {
+    "ID": "1268695006729",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Cindy Lou",
+    "STATUS": "Resolved",
+    "AI DECISION": "KYC Request",
+    "FINAL DECISION": "KYC Request",
+    "AI SUGGESTION_MATCH": "92%"
+  },
+  {
+    "ID": "1268698306247",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Joe Bloggs",
+    "STATUS": "Resolved",
+    "AI DECISION": "Passed + Withdraw Outer",
+    "FINAL DECISION": "Passed + Withdraw Outer",
+    "AI SUGGESTION_MATCH": "78%"
+  },
+  {
+    "ID": "1268698306213",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Jane Roe",
+    "STATUS": "Resolved",
+    "AI DECISION": "Passed + Full Access",
+    "FINAL DECISION": "Passed + Full Access",
+    "AI SUGGESTION_MATCH": "18%"
+  },
+  {
+    "ID": "1268698306982",
+    "TAG NAME": "KYT HR DW/WT",
+    "ASSIGNEE": "Carl Sagan",
+    "STATUS": "Resolved",
+    "AI DECISION": "Passed + Withdraw Outer",
+    "FINAL DECISION": "Passed + Full Access",
+    "AI SUGGESTION_MATCH": "28%"
+  }
+]
