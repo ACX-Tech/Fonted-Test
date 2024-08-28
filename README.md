@@ -8,6 +8,7 @@ You will create a simple case management dashboard with two main pages:
 
 - **Dashboard Page**: Displays a list of cases retrieved from an API.
 - **Case Investigation Page**: Displays detailed information about a specific case.
+- **Figma Design**: https://www.figma.com/proto/QDerjKrdCMMEHi6gVcJOB2/Compliance-Tool?node-id=449-11030&t=ng4KTS5EzdQI34IQ-0&scaling=scale-down-width&content-scaling=fixed&page-id=1%3A4&starting-point-node-id=425%3A10173
 
 ## Requirements
 
